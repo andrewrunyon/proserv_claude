@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180" height="40" viewBox="0 0 180 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <!-- Main teal circle -->
+    <circle cx="24" cy="20" r="16" fill="#1D4B45"/>
+    <!-- Lime green accent circle -->
+    <circle cx="14" cy="8" r="8" fill="#9EF01A"/>
+    <!-- Small black dot -->
+    <circle cx="6" cy="28" r="3" fill="#000000"/>
+    <!-- ProServ text -->
+    <text x="52" y="28" fill="#000000" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="600">ProServ</text>
+  </g>
+</svg>
